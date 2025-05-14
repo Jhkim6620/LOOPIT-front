@@ -25,14 +25,15 @@ LOOPIT은 중고거래에서 발생할 수 있는 사기와 위협을 줄이기 
 
 ---
 
-##🛠️ 로컬 개발 환경 세팅
+## 🛠️ 로컬 개발 환경 세팅
 
 밑에 있는 입력어를 그대로 복붙해서 terminal에 넣어주세요.
-`git clone https://github.com/Jhkim6620/LOOPIT-front.git
+```bash
+git clone https://github.com/Jhkim6620/LOOPIT-front.git 
 cd LOOPIT-front
 npm install
-npm start`
-
+npm start
+```
 
 🙋‍♂️ 제작자
 김종혁 (Jhkim6620)
