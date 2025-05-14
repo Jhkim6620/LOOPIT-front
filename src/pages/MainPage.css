@@ -1,0 +1,32 @@
+.main-page {
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .main-page h1 {
+    margin-bottom: 30px;
+    font-size: 28px;
+    color: #333;
+  }
+  
+  .main-buttons button {
+    display: block;
+    width: 100%;
+    padding: 14px;
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  .main-buttons button:hover {
+    background-color: #0056b3;
+  }
+  
